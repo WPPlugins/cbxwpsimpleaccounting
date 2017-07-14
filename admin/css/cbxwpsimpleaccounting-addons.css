@@ -1,0 +1,17 @@
+.cbxwpaccounting_addon{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.cbxwpaccounting_addon a img{
+    width: 100%;
+}
+.cbxclearfix{
+    clear: both;
+}
+
+@media only screen and (max-width: 768px){
+    .cbxwpaccounting_addon{
+        width: 100%;
+    }
+}

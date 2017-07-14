@@ -1,0 +1,829 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:269
+#: admin/class-cbxwpsimpleaccounting-admin.php:307
+#: admin/class-cbxwpsimpleaccounting-admin.php:373
+#: admin/class-cbxwpsimpleaccounting-admin.php:1034
+#: admin/class-cbxwpsimpleaccounting-admin.php:1192
+#: admin/class-cbxwpsimpleaccounting-admin.php:1234
+#: admin/partials/admin-overview-display.php:169
+#: admin/partials/admin-overview-display.php:254
+msgid "Edit"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:270
+#: admin/class-cbxwpsimpleaccounting-admin.php:308
+msgid "Add Category"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:271
+#: admin/class-cbxwpsimpleaccounting-admin.php:309
+msgid "Upadte Category"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:338
+msgid "This action can not be undone. Are you sure to delete this entry ?"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:339
+msgid "Month"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:340
+msgid "Day"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:341
+#: admin/partials/admin-adddexpinc-display.php:116
+#: admin/partials/admin-overview-display.php:113
+msgid "Income"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:342
+#: admin/partials/admin-adddexpinc-display.php:117
+#: admin/partials/admin-overview-display.php:114
+msgid "Expense"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:374
+msgid "Add Account"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:375
+msgid "Upadte Account"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-cbxwpsimpleaccounting-admin.php:428
+#: admin/class-cbxwpsimpleaccounting-admin.php:428
+msgid "CBX Accounting"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:432
+msgid "CBX Accounting: Manage Income/Expence"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:432
+msgid "Income/Expense"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:436
+msgid "CBX Accounting: Manage Category"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:436
+msgid "Manage Category"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:440
+msgid "CBX Account Manager: Manage Account"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:440
+msgid "Account Manager"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:444
+#: admin/class-cbxwpsimpleaccounting-admin.php:448
+msgid "CBX Accounting:"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:444
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:448
+msgid "Add-ons"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:458
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:474
+msgid "Support"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:581
+#: admin/class-cbxwpsimpleaccounting-admin.php:958
+#: admin/class-cbxwpsimpleaccounting-admin.php:1158
+msgid "The title field character limit must be between 5 to 200."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:589
+#: admin/class-cbxwpsimpleaccounting-admin.php:965
+msgid "The note field character limit must be between 10 to 2000."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:597
+msgid "Amount must be greater than 0.00."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:604
+msgid "Please select at least and only one category"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:647
+msgid "Update failed"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:832
+#: admin/class-cbxwpsimpleaccounting-admin.php:1961
+msgid "Data Loaded for edit"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:855
+#: admin/class-cbxwpsimpleaccounting-admin.php:860
+#: admin/class-cbxwpsimpleaccounting-admin.php:1982
+msgid "You attempted to edit item that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:878
+msgid "You don't have enough permission to delete Income/Expense."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:890
+msgid "Item Deleted. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:894
+msgid "Cannot Delete Item. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:944
+msgid "The Category title is already in use."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:951
+msgid "The Category color is already in use."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:993
+msgid "Sorry! you don't have enough permission to update category."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:997
+msgid "Category updated."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1002
+#: admin/class-cbxwpsimpleaccounting-admin.php:1195
+msgid "Add new"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1018
+#: admin/class-cbxwpsimpleaccounting-admin.php:1097
+msgid "You attempted to edit the category that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1032
+msgid "Category created successfully."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1048
+msgid "Sorry! you don't have enough permission to insert new category."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1056
+#: admin/class-cbxwpsimpleaccounting-admin.php:1255
+msgid "Hacking attempt ?"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1082
+msgid "Category loaded for edit"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1092
+msgid "You attempted to load a category that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1150
+msgid "The Account title is already in use."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1186
+msgid "Sorry! you don't have enough permission to update account."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1190
+msgid "Account updated."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1208
+#: admin/class-cbxwpsimpleaccounting-admin.php:1304
+msgid "You attempted to edit the account that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1232
+msgid "Account created successfully."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1247
+msgid "Sorry! you don't have enough permission to insert new account."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:1299
+msgid "You attempted to load an account that doesn't exist. "
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2020
+msgid "Active and Installed"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2028
+msgid "Not Installed or Active"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2036
+msgid "Installed but Inactive"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2046
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2050
+msgid "Category Settings"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2054
+msgid "Tax Settings"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2058
+msgid "Graph Settings"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2083
+msgid "Default Currency"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2084
+msgid "This controls what currency is used for calculation."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2093
+msgid "Currency Position"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2094
+msgid "This controls the position of the currency symbol."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2098
+msgid "Left"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2099
+msgid "Right"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2100
+msgid "Left with space"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2101
+msgid "Right with space"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2107
+msgid "Thousand Separator"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2108
+msgid "This sets the thousand separator of displayed prices."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2115
+msgid "Decimal Separator"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2116
+msgid "This sets the decimal separator of displayed prices."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2123
+msgid "Number of Decimals"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2124
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2133
+msgid "Category Color"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2134
+msgid "If yes each category must have a unique color"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2142
+msgid "Sales Tax (VAT)"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2143
+msgid "Default Tax(Vat) %"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2153
+#: admin/class-cbxwpsimpleaccounting-admin.php:2154
+msgid "Legend Color for Income"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2160
+#: admin/class-cbxwpsimpleaccounting-admin.php:2161
+msgid "Legend Color for Expense"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2190
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2191
+msgid "Argentine Peso"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2192
+msgid "Australian Dollars"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2193
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2194
+msgid "Brazilian Real"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2195
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2196
+msgid "Canadian Dollars"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2197
+msgid "Chilean Peso"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2198
+msgid "Chinese Yuan"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2199
+msgid "Colombian Peso"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2200
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2201
+msgid "Danish Krone"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2202
+msgid "Dominican Peso"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2203
+msgid "Euros"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2204
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2205
+msgid "Croatia kuna"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2206
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2207
+msgid "Icelandic krona"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2208
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2209
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2210
+msgid "Nepali Rupee"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2211
+msgid "Israeli Shekel"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2212
+msgid "Japanese Yen"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2213
+msgid "Lao Kip"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2214
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2215
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2216
+msgid "Mexican Peso"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2217
+msgid "Nigerian Naira"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2218
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2219
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2220
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2221
+msgid "Philippine Pesos"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2222
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2223
+msgid "Pounds Sterling"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2224
+msgid "Romanian Leu"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2225
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2226
+msgid "Singapore Dollar"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2227
+msgid "South African rand"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2228
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2229
+msgid "Swiss Franc"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2230
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2231
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2232
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2233
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2234
+msgid "US Dollars"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2235
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2236
+msgid "Egyptian Pound"
+msgstr ""
+
+#: admin/class-cbxwpsimpleaccounting-admin.php:2237
+msgid "Iranian rial"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:23
+msgid "CBX Accounting: Account Manager"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:34
+msgid "Add/Edit Account"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:44
+#: admin/partials/admin-adddexpinc-display.php:59
+#: admin/partials/admin-overview-display.php:145
+#: admin/partials/admin-overview-display.php:214
+#: admin/partials/admin-overview-display.php:233
+#: admin/partials/admin-overview-display.php:297
+msgid "Title"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:51
+#: admin/partials/admin-adddexpinc-display.php:113
+msgid "Type"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:54
+#: admin/partials/admin-account-manager-display.php:113
+msgid "Cash"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:55
+#: admin/partials/admin-account-manager-display.php:114
+msgid "Bank"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:61
+msgid "Acount No."
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:70
+msgid "Acount Name."
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:79
+msgid "Bank Name."
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:88
+msgid "Branch Name."
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:97
+#: admin/partials/admin-account-manager-display.php:97
+msgid "Add new account"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:97
+msgid "Update account"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:98
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:109
+msgid "Accounts"
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:111
+msgid "Type : "
+msgstr ""
+
+#: admin/partials/admin-account-manager-display.php:112
+msgid "All Accounts"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:24
+msgid "CBX Accounting: Add Expense/Income"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:36
+#, php-format
+msgid "No category created yet, please <a href=\"%s\">create</a> one !"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:42
+msgid "Add/Edit Expense/Income"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:70
+#: admin/partials/admin-overview-display.php:146
+#: admin/partials/admin-overview-display.php:215
+#: admin/partials/admin-overview-display.php:234
+#: admin/partials/admin-overview-display.php:298
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:82
+msgid "Source Amount"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:94
+msgid "Select Currency"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:123
+#: admin/partials/admin-overview-display.php:147
+#: admin/partials/admin-overview-display.php:216
+#: admin/partials/admin-overview-display.php:235
+#: admin/partials/admin-overview-display.php:299
+msgid "Category"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:162
+msgid "Note"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:171
+#: admin/partials/admin-overview-display.php:148
+#: admin/partials/admin-overview-display.php:217
+#: admin/partials/admin-overview-display.php:236
+#: admin/partials/admin-overview-display.php:300
+msgid "Account"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:175
+msgid "Select Account"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:188
+msgid "Invoice No."
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:198
+msgid "Add Tax:"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:207
+msgid "Vat(%)"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:217
+msgid "Added Date"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:234
+#: admin/partials/admin-adddexpinc-display.php:236
+msgid "Add new expense/income"
+msgstr ""
+
+#: admin/partials/admin-adddexpinc-display.php:235
+#: admin/partials/admin-adddexpinc-display.php:236
+msgid "Update expense/income"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:25
+msgid "CBX Accounting: Overview"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:35
+msgid "Quick Summary of the Year : "
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:41
+#: admin/partials/admin-overview-display.php:83
+msgid "Prev"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:44
+#: admin/partials/admin-overview-display.php:89
+msgid "Next"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:50
+msgid "Quick Summary of the Month : "
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:96
+msgid "Pie Diagram of Latest Income and Expense by Category."
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:100
+msgid "Latest Income stats of this month"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:103
+msgid "Latest Expense stats of this month"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:107
+msgid "Quick Summary(Including Tax)"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:115
+msgid "Profit"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:117
+msgid "All Time Total"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:123
+msgid "This Year"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:129
+msgid "This Month"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:139
+msgid "Current Month Latest Income(Showing last 20 entries)"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:149
+#: admin/partials/admin-overview-display.php:218
+#: admin/partials/admin-overview-display.php:237
+#: admin/partials/admin-overview-display.php:301
+msgid "Invoice"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:150
+#: admin/partials/admin-overview-display.php:219
+#: admin/partials/admin-overview-display.php:238
+#: admin/partials/admin-overview-display.php:302
+msgid "Tax"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:151
+#: admin/partials/admin-overview-display.php:220
+#: admin/partials/admin-overview-display.php:239
+#: admin/partials/admin-overview-display.php:303
+msgid "Final Amount"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:152
+#: admin/partials/admin-overview-display.php:221
+#: admin/partials/admin-overview-display.php:240
+#: admin/partials/admin-overview-display.php:304
+msgid "Information"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:173
+#: admin/partials/admin-overview-display.php:258
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:188
+#: admin/partials/admin-overview-display.php:272
+msgid "N/A"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:207
+#: admin/partials/admin-overview-display.php:290
+msgid "No data found"
+msgstr ""
+
+#: admin/partials/admin-overview-display.php:228
+msgid "Current Month Latest Expense(Showing last 20 entries)"
+msgstr ""
+
+#: admin/partials/sidebar.php:24
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/partials/sidebar.php:32
+msgid "Codeboxr Updates"
+msgstr ""
+
+#: admin/partials/sidebar.php:64
+msgid "Codeboxr on facebook"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin gives simple accounting solution to wordpress for SME businness"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://codeboxr.com/product/cbx-accounting/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
